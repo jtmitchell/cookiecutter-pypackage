@@ -2,19 +2,40 @@
 {{ cookiecutter.project_name }}
 ===============================
 
-.. image:: https://img.shields.io/travis/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}.svg
+.. image:: https://travis-ci.org/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}.svg?branch=master
         :target: https://travis-ci.org/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}
 
+.. image:: https://coveralls.io/repos/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/badge.svg?branch=master
+        :target: https://coveralls.io/repos/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}?branch=master
+        
 .. image:: https://img.shields.io/pypi/v/{{ cookiecutter.repo_name }}.svg
         :target: https://pypi.python.org/pypi/{{ cookiecutter.repo_name }}
 
 
 {{ cookiecutter.project_short_description}}
 
-* Free software: BSD license
+* Free software: GNU General Public License
 * Documentation: https://{{ cookiecutter.repo_name }}.readthedocs.org.
 
 Features
 --------
 
 * TODO
+
+License
+-------
+
+Copyright (C) {{ cookiecuter.year }}  {{ cookiecuter.full_name }} <{{ cookiecuter.email }}>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
