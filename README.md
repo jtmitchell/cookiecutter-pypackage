@@ -1,7 +1,5 @@
 # cookiecutter-pypackage
 
-[![Build Status](https://travis-ci.org/jtmitchell/cookiecutter-pypackage.svg?branch=master)](https://travis-ci.org/jtmitchell/cookiecutter-pypackage)
-
 Cookiecutter template for a Python package. 
 
 Forked from https://github.com/audreyr/cookiecutter.
