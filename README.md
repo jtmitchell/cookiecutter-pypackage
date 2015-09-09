@@ -18,7 +18,7 @@ Forked from https://github.com/audreyr/cookiecutter.
 Generate a Python package project
 
 ```
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/jtmitchell/cookiecutter-pypackage.git
 ```
 
 Then:
