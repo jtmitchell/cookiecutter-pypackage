@@ -3,18 +3,18 @@
 ===============================
 
 .. image:: https://travis-ci.org/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}.svg?branch=master
-        :target: https://travis-ci.org/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}
+      :target: https://travis-ci.org/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}
 
 .. image:: https://coveralls.io/repos/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/badge.svg?branch=master
-        :target: https://coveralls.io/repos/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}?branch=master
+      :target: https://coveralls.io/repos/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}?branch=master
         
 .. image:: https://img.shields.io/pypi/v/{{ cookiecutter.repo_name }}.svg
-        :target: https://pypi.python.org/pypi/{{ cookiecutter.repo_name }}
+      :target: https://pypi.python.org/pypi/{{ cookiecutter.repo_name }}
 
 
 {{ cookiecutter.project_short_description}}
 
-* Free software: GNU General Public License
+* Free software: GPLv3
 * Documentation: https://{{ cookiecutter.repo_name }}.readthedocs.org.
 
 Features

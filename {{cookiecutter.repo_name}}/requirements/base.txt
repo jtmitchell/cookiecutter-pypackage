@@ -1,0 +1,2 @@
+# the basic dependancies for {{ cookiecutter.repo_name }}
+wheel==0.23.0
